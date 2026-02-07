@@ -1,0 +1,3 @@
+[submodule "clawedroad"]
+	path = clawedroad
+	url = https://github.com/sanctumos/clawedroad.git
