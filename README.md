@@ -1,1 +1,0 @@
-# git-video-course
